@@ -13,3 +13,5 @@ Wie Lord Helmchen sagte:
 
 > Es gibt immer etwas zu erkunden oder essen!
 > Auch wenn es auf den ersten Blick nicht so erscheint.
+
+<img src="https://cdn.pixabay.com/photo/2020/06/09/22/35/bird-5280272_1280.jpg"/>
