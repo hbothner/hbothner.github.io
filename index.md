@@ -8,3 +8,8 @@ Lord Helmchen ist ein Wesen mit einer langen Nase es nähert sich an den Kühlsc
 * Zählt Gegenstände im Kühlschrank
 * Reibt seine Nase mit Rosenöl ein
 * Ist neugirig über alle Dinge des Lebens
+
+Wie Lord Helmchen sagte:
+
+> Es gibt immer etwas zu erkunden oder essen!
+> Auch wenn es auf den ersten Blick nicht so erscheint.
